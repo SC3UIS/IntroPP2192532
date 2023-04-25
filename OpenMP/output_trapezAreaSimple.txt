@@ -1,0 +1,25 @@
+#Ejecucion en Guane
+
+
+Enter the no. of sub-intervals: 2
+
+Enter the initial limit: 1
+
+Enter the final limit: 3
+
+The integral is: 9.000000
+
+
+
+#Ejecucion en maquina local
+
+Enter the no. of sub-intervals: 2
+
+Enter the initial limit: 1
+
+Enter the final limit: 3
+
+The integral is: 9.000000
+
+--------------------------------
+Process exited after 15.95 seconds with return value 0
